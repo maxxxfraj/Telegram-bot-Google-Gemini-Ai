@@ -23,8 +23,8 @@
 1. **Клонируйте репозиторий:**
 
     ```bash
-    git clone <адрес репозитория>
-    cd <название папки>
+    git clone https://github.com/timurkaff/Telegram-bot-Google-Gemini-Ai.git
+    cd <Telegram-bot-Google-Gemini-Ai>
     ```
 
 2. **Установите зависимости:**
